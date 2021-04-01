@@ -11,7 +11,10 @@
 #### So far I've touched bases with : <br/>
 ![CSS3_logrro_and_wordmark svg](https://user-images.githubusercontent.com/55431514/94478860-275c7f80-01d4-11eb-8a4a-c63255f49bd7.png)  ![64px-HTML5_logo_and_wordmark svg](https://user-images.githubusercontent.com/55431514/94476432-c3848780-01d0-11eb-96ef-0ffa815224f1.png)   ![64px-JavaScript-logo](https://user-images.githubusercontent.com/55431514/94476437-c4b5b480-01d0-11eb-8d59-c69e4c802d05.png)   ![NodeJS1](https://user-images.githubusercontent.com/55431514/94477933-d26c3980-01d2-11eb-8e73-530cf28f1f65.png)  ![React_Native1](https://user-images.githubusercontent.com/55431514/94477771-a18c0480-01d2-11eb-89ff-915293488d66.png)   ![64px-Typescript_logo_2020 svg](https://user-images.githubusercontent.com/55431514/94476837-4d345500-01d1-11eb-9417-1f3fb979525c.png)   ![64px-Java_programming_language_logo svg](https://user-images.githubusercontent.com/55431514/94477299-faa76880-01d1-11eb-9ee1-9a19c36ee663.png)   ![mongoDB](https://user-images.githubusercontent.com/55431514/108751487-93080600-7542-11eb-9764-379c9f3206af.png)
 ![emotions21](https://user-images.githubusercontent.com/55431514/108751508-98fde700-7542-11eb-869a-bd1c5f5ff70f.jpeg)
-![styled-components1](https://user-images.githubusercontent.com/55431514/108751517-9bf8d780-7542-11eb-9486-633eea550351.png)![angular1](https://user-images.githubusercontent.com/55431514/112801562-52d00200-9071-11eb-8f99-307ba3952e45.png)
+![styled-components1](https://user-images.githubusercontent.com/55431514/108751517-9bf8d780-7542-11eb-9486-633eea550351.png)
+![angular](https://user-images.githubusercontent.com/55431514/113322138-9bf3b080-9314-11eb-93b8-8805a491ca14.png)
+![firebase11212](https://user-images.githubusercontent.com/55431514/113322230-b9287f00-9314-11eb-8fb9-e4cb552325df.png)
+
 
 
  #### If you want to know more about me: 
