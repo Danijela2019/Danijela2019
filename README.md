@@ -2,7 +2,7 @@
 
 
 ### Who am I? :nerd_face:
-#### An It enthusiast and life long learner, constantly looking for new challenges and ways to improve my skills. I recently graduated from my second software developer boot camp at School of applied technologies(SALT). You can read more about it [here](https://salt.study/).
+#### An IT enthusiast and life long learner, constantly looking for new challenges and ways to improve my skills. I recently graduated from my second software developer boot camp at School of applied technologies(SALT). You can read more about it [here](https://salt.study/).
 
 #### I am constantly working on new projects, creating repos here and learning new, different technologies on the way. Feel free to browse around  :slightly_smiling_face:
 
@@ -18,7 +18,7 @@
 
 
  #### If you want to know more about me: 
- [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][1]
+ [![linkedin12](https://user-images.githubusercontent.com/55431514/114263117-01fec880-99e4-11eb-801a-e975f30374fd.png)][1]
 
 
 [1]: http://www.linkedin.com/in/danijela-milenkovic-926b0a57/
