@@ -2,7 +2,7 @@
 
 
 ### Who am I? :nerd_face:
-#### An IT enthusiast and life long learner, constantly looking for new challenges and ways to improve my skills. I recently graduated from my second software developer boot camp at School of applied technologies(SALT). You can read more about it [here](https://salt.study/).
+#### An IT enthusiast and life long learner, constantly looking for new challenges and ways to improve my skills. 
 
 #### I am constantly working on new projects, creating repos here and learning new, different technologies on the way. Feel free to browse around  :slightly_smiling_face:
 
